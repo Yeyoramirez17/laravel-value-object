@@ -31,7 +31,7 @@ En `Laravel`, el concepto de Value Object se puede aplicar para representar cier
 1. Clona este repositorio: 
 
 ```bash
-git clone https://github.com/Yeyoramirez17/laravel-pipeline.git
+git clone https://github.com/Yeyoramirez17/laravel-value-object.git
 ```
 2. Entra al directorio del proyecto: 
 ```bash
